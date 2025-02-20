@@ -426,6 +426,7 @@ For example:
 - =-2w= -- two weeks ago
 - =3m= -- three months from today
 - =1y= -- one year from today
+- =-10M= -- ten minutes ago
 
 Few aliases for =TIME= are available:
 - =tomorrow=, =tmrw= or =tom=
